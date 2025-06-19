@@ -3,11 +3,10 @@
    <img align="center" alt="Hope youre having a good day out there!!" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1">
 </picture>
 
-I am iyadavmohit (aka Mohit), I enjoy using my skills to contribute to the exciting technological advances that happen every day.
+I am Mohit Ningania, I enjoy using my skills to contribute to the exciting technological advances that happen every day.
 
 - 🔭 Working on my Problem solving and Intuition skills 
 - 🌱 Nurturing My C & C++ skills
-- 🤔 Looking for help with my Mental Health website
 - 💬 Smile when ever you can,
 - 📫 Find me on: 
 <p>&nbsp;</p>
